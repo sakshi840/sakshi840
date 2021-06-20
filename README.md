@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sakshi840
+- 👋 Hi, I’m @sakshi
 - 👀 I’m interested in coding.
 - 🌱 I’m currently learning JAVA and JS
 - 💞️ I’m looking to collaborate on ...
